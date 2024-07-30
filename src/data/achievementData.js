@@ -1,28 +1,28 @@
 export const achievementData = {
-    bio : "Putting quantified achievements on a resume is great, but I just don’t work with hard numbers. I have no data to support the quality of my work. If you have lots of relevant experience, the heading statement of your resume will be a summary.",
+    bio : "Final-year college student and enthusiastic Java backend developer with a strong foundation in creating efficient and scalable software solutions. Eager to apply academic knowledge to real-world projects and continuously learn and grow in the field.",
     achievements : [
         {
             id : 1,
-            title : 'Google Cloud certification',
-            details : 'Google Cloud certifications validate your expertise and showcase your ability to transform businesses with Google Cloud technology.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
+            title : 'Power Generation Training: National Power Training Institute, Shivpuri',
+            details : 'Learned IoT integration for SCADA and smart metres.',
+            date : 'Nov 2023',
+            field : '',
             image : 'https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80'
         },
         {
             id : 2,
-            title : 'AWS Certification',
-            details : 'Validate technical skills and cloud expertise to grow your career and business.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
+            title : 'National Agro Hackathon: LNCT, Bhopal',
+            details : 'Developed an application for crop disease identification using image processing',
+            date : '(June 2022)',
+            field : '',
             image : 'https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
         },
         {
             id : 3,
-            title : 'Professional Data Engineer Certification',
-            details : 'Professional Data Engineers enable data-driven decision making by collecting, transforming, and publishing data.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
+            title : 'Gwalior Global E Summit and Gwalior Startup Meet',
+            details : 'Gained Knowledge about Startups and Entrepreneurship and Gained some valuable connections, Pitched ideas .',
+            date : 'Nov 2022, Jan 2023',
+            field : '',
             image : 'https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
         }
 
